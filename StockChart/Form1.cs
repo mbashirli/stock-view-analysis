@@ -4,11 +4,6 @@ using System.IO;
 using System.Collections.Generic;
 using System.Globalization;
 
-
-/* 
-This is the work of Murad Bashirli for the Project 3 of Software System Development  
-*/
-
 namespace StockChart
 {
     public partial class StockLoaderForm : Form
